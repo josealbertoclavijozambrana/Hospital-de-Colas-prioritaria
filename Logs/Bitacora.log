@@ -1,0 +1,33 @@
+2016-04-13 08:35:21 DEBUG Main:85 - iniciando para cambio de estructuranull
+2016-04-13 08:35:21 INFO  Main:212 - colaprioridad no ordenada
+2016-04-13 08:35:38 INFO  Main:212 - colaprioridad no ordenadaPaciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:06 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:06 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:30 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:30 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:36 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:36 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:58 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=3 | Nombre=angel | Detalle=medio muerto | Prioridad=4} - Paciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:36:58 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=3 | Nombre=angel | Detalle=medio muerto | Prioridad=4} - Paciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 08:37:05 INFO  Main:212 - colaprioridad no ordenadaPaciente{Nro=2 | Nombre=carlos | Detalle=dksa | Prioridad=3} - Paciente{Nro=1 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:45:54 DEBUG Main:85 - iniciando para cambio de estructuranull
+2016-04-13 11:45:54 INFO  Main:212 - colaprioridad no ordenada
+2016-04-13 11:46:39 INFO  Main:212 - colaprioridad no ordenada
+2016-04-13 11:46:46 INFO  Main:215 - colaprioridad  ordenada
+2016-04-13 11:46:46 INFO  Main:218 - colaprioridad  Heap
+2016-04-13 11:47:20 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - 
+2016-04-13 11:47:20 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - 
+2016-04-13 11:47:23 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - 
+2016-04-13 11:47:23 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - 
+2016-04-13 11:47:36 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:47:36 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:08 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=3 | Nombre=olwer | Detalle=masturbacion extrema | Prioridad=4} - Paciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:08 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=3 | Nombre=olwer | Detalle=masturbacion extrema | Prioridad=4} - Paciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:35 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:35 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:41 INFO  Main:212 - colaprioridad no ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:44 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:44 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:45 INFO  Main:212 - colaprioridad no ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:47 INFO  Main:215 - colaprioridad  ordenadaPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
+2016-04-13 11:48:48 INFO  Main:218 - colaprioridad  HeapPaciente{Nro=1 | Nombre=tfhgf | Detalle=medio muerto | Prioridad=3} - Paciente{Nro=2 | Nombre=jose | Detalle=dolor de cabeza | Prioridad=0} - 
